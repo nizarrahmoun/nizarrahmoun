@@ -2,7 +2,7 @@
 
 🎓 M1 Software Engineering Student | 💻 Full-Stack Developer | ☁️ AI & Cloud Enthusiast  
 📍 Based in Agadir, Morocco  
-🔗 [LinkedIn](https://linkedin.com/in/nizarrahmoun) | 📫 nizar.rahmoun7@example.com  
+🔗 [LinkedIn](https://www.linkedin.com/in/nizar-rahmoun-791130233/) | 📫 nizarrahmoun7@gmail.com  
 
 ---
 
@@ -49,5 +49,5 @@ Developed a CRM app with **Laravel + Bootstrap** during an internship, used for 
 ## ✉️ Let's Connect
 
 I'm actively looking for internship opportunities in software development, cloud, or AI.  
-Feel free to reach out via [LinkedIn](https://linkedin.com/in/nizarrahmoun) or email me at **nizar.rahmoun7@example.com**.
+Feel free to reach out via [LinkedIn](https://www.linkedin.com/in/nizar-rahmoun-791130233/) or email me at **nizarrahmoun7@gmail.com**.
 
