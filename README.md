@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Nizar Rahmoun
 
-🎓 M1 Software Engineering Student | 💻 Full-Stack Developer | ☁️ AI & Cloud Enthusiast  
+🎓 M2 Software Engineering Student | 💻 Full-Stack Developer | ☁️ AI & Cloud Enthusiast  
 📍 Based in Agadir, Morocco  
 🔗 [LinkedIn](https://www.linkedin.com/in/nizar-rahmoun-791130233/) | 📫 nizarrahmoun7@gmail.com  
 
